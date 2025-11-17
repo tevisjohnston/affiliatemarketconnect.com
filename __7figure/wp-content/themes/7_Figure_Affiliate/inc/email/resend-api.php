@@ -10,3 +10,5 @@ $resend->emails->send([
   'subject' => 'hello world',
   'html' => '<strong>it works!</strong>',
 ]);
+
+echo $Result->toJson();
