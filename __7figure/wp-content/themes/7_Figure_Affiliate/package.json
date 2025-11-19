@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node 7_Figure_Affiliate/assets/email/index.ts."
+    "start": "node . '/assets/email/index.ts'"
   },
   "keywords": [],
   "author": "",
