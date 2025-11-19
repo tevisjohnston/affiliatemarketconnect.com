@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./assets/email/index.ts"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +14,8 @@
     "@tailwindcss/cli": "^4.1.17",
     "resend": "^6.4.2",
     "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
   }
 }
