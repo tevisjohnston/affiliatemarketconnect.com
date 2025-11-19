@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./assets/email/index.ts"
+    "start": "node /home/u217322188/domains/affiliatemarketconnect.com/public_html/__7figure/wp-content/themes/7_Figure_Affiliate/assets/email/index.ts."
   },
   "keywords": [],
   "author": "",
